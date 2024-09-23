@@ -7,7 +7,7 @@ Enlaces a la documentación de las versiones desarrolladas y sus traducciones.
 # ![](ca.png) Versions dels nostres projectes CANSAT
 Enllaços a la documentació de les versions desenvolupades i les traduccions.
 
-* [Democratitzant CanSat]()
+* [Democratitzant CanSat](https://cansat.robolot.online)
 
 # ![](en.png) Versions of our CANSAT projects
 Links to the documentation of the developed versions and their translations.
