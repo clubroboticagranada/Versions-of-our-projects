@@ -15,5 +15,8 @@ Links to the documentation of the developed versions and their translations.
 [Democratising CANSAT II. The Return]()
 
 ***
+<center>
 
 ![Cartel](Cartel_DemocratizandoCansatII_ElRetorno.jpg)
+
+</center>
