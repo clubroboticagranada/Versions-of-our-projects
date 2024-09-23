@@ -12,4 +12,8 @@ Enllaços a la documentació de les versions desenvolupades i les traduccions.
 # ![](en.png) Versions of our CANSAT projects
 Links to the documentation of the developed versions and their translations.
 
+[Democratising CANSAT II. The Return]()
+
+***
+
 ![Cartel](Cartel_DemocratizandoCansatII_ElRetorno.jpg)
