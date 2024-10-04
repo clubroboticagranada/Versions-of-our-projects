@@ -1,4 +1,7 @@
 # ![](es.png) Versiones de nuestros proyectos CANSAT
+
+![Esta web](qrweb.png)
+
 Enlaces a la documentación de las versiones desarrolladas y sus traducciones.
 
 * [Democratizando CANSAT](https://clubroboticagranada.github.io/democratizandoCansat/)
