@@ -15,7 +15,7 @@ Enllaços a la documentació de les versions desenvolupades i les traduccions.
 # ![](en.png) Versions of our CANSAT projects
 Links to the documentation of the developed versions and their translations.
 
-[Democratising CANSAT II. The Return]()
+[Democratising CANSAT II. The Return](https://clubroboticagranada.github.io/DemocratisingCANSAT2/)
 
 ***
 <center>
